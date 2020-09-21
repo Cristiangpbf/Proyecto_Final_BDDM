@@ -104,7 +104,7 @@ Caso de estudio: Tendencia actual – Red Social
 La extracción de datos se dio desde la fuente: Tik Tok
 Obteniendo un archivo .csv con la información.
 
-7.	ANALISIS DE DATOS Y DESARROLLO
+ANALISIS DE DATOS Y DESARROLLO
 
 Caso de estudio: Pulso político en Ecuador
 Para el análisis de datos se usó la herramienta Elasticsearch en la nube.
