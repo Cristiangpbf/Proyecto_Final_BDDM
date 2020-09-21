@@ -1,7 +1,9 @@
 # Proyecto_Final_BDDM
 FECHA: 21 de septiembre 2020
 
-Links : [Link de Youtube](https://youtu.be/t84Wulo_by4) [Link de la presentación](https://www.beautiful.ai/player/-MHltcUhSt-qoYyjp__6)
+Links : <br />
+[Link de Youtube](https://youtu.be/t84Wulo_by4) <br />
+[Link de la presentación](https://www.beautiful.ai/player/-MHltcUhSt-qoYyjp__6)<br />
 
 Se realiza el proceso de cosecha de datos, su transformación, mapeo, creación de índices, entre otros procesos para el análisis de datos de fuentes de Internet como twitter, tiktok y además archivos estáticos de INEC.
 
